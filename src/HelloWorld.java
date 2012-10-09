@@ -10,5 +10,8 @@ public class HelloWorld {
 	public String hello(){
 		return "Pants on pants on pants!";
 	}
+	public String shoe(){
+		return "You already have shoes on.";
+	}
 
 }
