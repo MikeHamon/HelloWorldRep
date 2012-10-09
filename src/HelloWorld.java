@@ -1,4 +1,3 @@
-
 public class HelloWorld {
 
 	/**
@@ -9,7 +8,7 @@ public class HelloWorld {
 
 	}
 	public String hello(){
-		return "Pants";
+		return "Pants on head!";
 	}
 
 }
