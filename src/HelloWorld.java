@@ -8,7 +8,7 @@ public class HelloWorld {
 
 	}
 	public String hello(){
-		return "Pants on head!";
+		return "Pants on pants on pants!";
 	}
 
 }
